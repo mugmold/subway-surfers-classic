@@ -1,0 +1,5 @@
+# Keep only the public release files in Git.
+/*
+!/.gitignore
+!/README.md
+!/Subway-Surfers-Classic-Pure-ARM64.apk
