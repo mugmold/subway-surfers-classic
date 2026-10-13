@@ -23,7 +23,6 @@ This is a custom classic build, not the current official release.
 - **Faster runs:** The game accelerates twice as quickly. Starting speed stays the same, and maximum speed is 50% higher, reached after the same three minutes.
 - **Maxed upgrades:** Jetpack, super sneakers, coin magnet, and 2x multiplier use their maximum upgrade tier.
 - **Unlimited hoverboards:** Hoverboards have no inventory limit or cooldown, with their normal duration during a run.
-- **Double scoring:** The permanent score bonus is enabled, separately from the collectible 2x powerup.
 - **Cleaner pause screen:** Mission notes are removed, and Resume works immediately without showing “WAIT.” The notebook remains on the death/score screen.
 - **Rotation support:** Both portrait and landscape follow the phone's rotation settings.
 - **Rendering fixes:** Updated mesh geometry and adjusted the 2x pickup and worn jump shoes to reduce invisible objects and overlapping textures.
